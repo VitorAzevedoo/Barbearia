@@ -19,3 +19,5 @@ A última página de <strong>Contatos</strong> possui:
   <li>Formulário para contato;</li>
   <li>Tabela de horários de funcionamento.</li>
 </ul>
+
+Para acessar a página da Barbearia [Clique aqui](https://vitorazevedoo.github.io/Barbearia/)
