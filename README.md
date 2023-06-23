@@ -1,7 +1,7 @@
 # Barbearia 💈
 
 Esse projeto foi desenvolvido durante a primeira parte da Formação Front-end do curso Alura! 
-O site contém as páginas de: <strong>home</strong>, <strong>produtos</strong> e <strong>contato</strong>.
+O site contém as páginas de: <strong>Home</strong>, <strong>Produtos</strong> e <strong>Contato</strong>.
 
 A página <strong>home</strong> possui: 
 <ul>
